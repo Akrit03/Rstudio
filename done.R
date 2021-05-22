@@ -1,0 +1,2 @@
+print("Akrit")
+print("Acharya")
